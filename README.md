@@ -42,7 +42,7 @@ I am a results-oriented Data Analyst focused on transforming complex datasets in
 ### 📫 Let's Connect!
 <p align="left">
 <a href="(https://www.linkedin.com/in/helian-fierro-oyola-143798206/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Helian Fierro" height="30" width="40" /></a>
-<a href="mailto:TU_EMAIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:helian1505@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 
